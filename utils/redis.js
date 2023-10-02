@@ -1,4 +1,4 @@
-#!/usr/bin/node 
+#!/usr/bin/node
 
 import { promisify } from 'util';
 import { createClient } from 'redis';
